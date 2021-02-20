@@ -1,0 +1,18 @@
+### https://raw.github.com/github/gitignore/14f8a8b4c51ecc00b18905a95c117954e6c77b9d/Scala.gitignore
+
+*.class
+*.log
+
+
+### https://raw.github.com/github/gitignore/14f8a8b4c51ecc00b18905a95c117954e6c77b9d/Global/VisualStudioCode.gitignore
+
+.vscode
+
+# Local History for Visual Studio Code
+.history/
+
+
+target
+.bloop
+.metals
+/project
